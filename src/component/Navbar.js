@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='leftSide' id={openLinks ? 'open' : 'close'}>
-        <img src="../src/asset/pistacio.png" alt='logo' />
+        <img src="./img/logo-navbar.png" alt='logo' />
         <div className='hiddenLinks'>
           <NavLink to='/' > Accueil </NavLink>
           <NavLink to='/menu' > Nos pizzas </NavLink>

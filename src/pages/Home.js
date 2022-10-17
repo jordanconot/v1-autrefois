@@ -19,7 +19,7 @@ function Home() {
      <section className='section'>
      <div className='terrace'>
          <img src='./img/terrace.png' className='picture'></img>
-        <img src='./img/wood-oven.png' className='picture'></img>
+        <img src='../public/img/wood-oven.png' className='picture'></img>
      </div>
      
      
